@@ -1,4 +1,5 @@
-# CSD3185 Machine Learning Project: Movie Recommender System
+# CSD3185 Machine Learning Project: 
+## MovieCompanion - A Movie Recommender System
 
 Developed by:
 - Matthias Ong Si En
