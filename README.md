@@ -1,4 +1,4 @@
-# CSD3185 Machine Learning Project: Movie Recommendation System
+# CSD3185 Machine Learning Project: Movie Recommender System
 
 Developed by:
 - Matthias Ong Si En
