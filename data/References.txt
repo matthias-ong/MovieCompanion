@@ -1,0 +1,5 @@
+Dataset with 5000 movies
+TMDB 5000 Movie Dataset: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+
+Dataset with userID so that we could implement Collaborative Filtering
+The Movies Dataset: https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
