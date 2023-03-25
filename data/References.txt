@@ -1,5 +1,6 @@
 Dataset with 5000 movies
 TMDB 5000 Movie Dataset: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
-Dataset with userID so that we could implement Collaborative Filtering
+Partial Dataset with userID and links for movieIDs so that we could implement Collaborative Filtering
+Only using links_small.csv (movie ids MAP to TMDB ids) and ratings_small.csv (user profiles)
 The Movies Dataset: https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
