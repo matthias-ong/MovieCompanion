@@ -1,6 +1,10 @@
-Dataset with 5000 movies
-TMDB 5000 Movie Dataset: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+The Movies Dataset - Metadata on over 45,000 movies. 26 million ratings from over 270,000 users: https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
 
-Partial Dataset with userID and links for movieIDs so that we could implement Collaborative Filtering
-Only using links_small.csv (movie ids MAP to TMDB ids) and ratings_small.csv (user profiles)
-The Movies Dataset: https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
+The following files from the dataset were used:
+credits.csv
+keywords.csv
+links_small.csv
+movies_metadata.csv
+ratings_small.csv
+
+This was chosen over the 5000 TMDB dataset as we wanted more than just 5k data (we used about 9k+ from The Movies Dataset), we also needed user data for collaborative filtering & hybrid algorithm.
