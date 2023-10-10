@@ -1,5 +1,4 @@
-# CSD3185 Machine Learning Project: 
-## MovieCompanion - A Movie Recommender System
+# MovieCompanion - A Movie Recommender System
 
 ## Introduction
 This Movie Recommendation System was developed to help explore unsupervised machine learning algorithms within Recommendation system algorithms. Real recommenders are
